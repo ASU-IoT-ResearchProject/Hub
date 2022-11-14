@@ -19,11 +19,11 @@ Documentation and setup guides for the app can be found at the following links
 
 ### Setup Guides
 
-For those who want to just setup the apps for home use
+For both developers and users, this will setup a raspberry pi from a fresh image.
 
 [Raspberry Pi App Setup](https://github.com/ASU-IoT-ResearchProject/Hub/blob/main/RaspberryPiApp.docx)
 
-[Backend Apps (optional setup)](https://github.com/ASU-IoT-ResearchProject/Hub/blob/main/BackendApps.docx)
+[Backend Apps if you want to host the server youself (optional setup)](https://github.com/ASU-IoT-ResearchProject/Hub/blob/main/BackendApps.docx)
 
 To add, phone app guide
 
@@ -65,25 +65,20 @@ These 2 apps are if a user wants to host the data themselves.
 ### Latest Version
 
 - [Keith Erkert](https://github.com/KeithErkert)    
-
     email - keith@erkert.dev
 
 ### Original Version/Planning
 
-- [Andrew Lamontagne](https://github.com/metallicafan212)   
-
+- [Andrew Lamontagne](https://github.com/metallicafan212)    
     email amlamont@asu.edu
 
 - John Cummings
-
     email jacummi3@asu.edu
 
 - [Mitchell Hoikka](https://github.com/mhoikka)
-
     email mhoikka@asu.edu
 
 - Jereming Chen
-
     email jchen400@asu.edu
 
 ### Faculity Advisors
