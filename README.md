@@ -65,20 +65,25 @@ These 2 apps are if a user wants to host the data themselves.
 ### Latest Version
 
 - [Keith Erkert](https://github.com/KeithErkert)    
+
     email - keith@erkert.dev
 
 ### Original Version/Planning
 
-- [Andrew Lamontagne](https://github.com/metallicafan212)    
+- [Andrew Lamontagne](https://github.com/metallicafan212)   
+
     email amlamont@asu.edu
 
 - John Cummings
+
     email jacummi3@asu.edu
 
 - [Mitchell Hoikka](https://github.com/mhoikka)
+
     email mhoikka@asu.edu
 
 - Jereming Chen
+
     email jchen400@asu.edu
 
 ### Faculity Advisors
