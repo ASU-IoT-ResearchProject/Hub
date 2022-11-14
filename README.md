@@ -13,23 +13,54 @@ Minimum Hardware needed:
 
 
 
-## Documentation/Setup
+# Documentation/Setup
 
 Documentation and setup guides for the app can be found at the following links
 
 ### Setup Guides
 
+For those who want to just setup the apps for home use
+
 [Raspberry Pi App Setup](https://github.com/ASU-IoT-ResearchProject/Hub/blob/main/RaspberryPiApp.docx)
 
 [Backend Apps (optional setup)](https://github.com/ASU-IoT-ResearchProject/Hub/blob/main/BackendApps.docx)
 
+To add, phone app guide
+
 ### Developer Guides
 
-[Visual Studio Setup](https://github.com/ASU-IoT-ResearchProject/IoTRaspberryPi/blob/master/VisualStudioSetup.docx)
+For those who want to see the source code and modify it.
+
+[Visual Studio Setup + Source Code Download](https://github.com/ASU-IoT-ResearchProject/IoTRaspberryPi/blob/master/VisualStudioSetup.docx)
 
 More coming soon
 
-## Authors
+# Source code links
+
+### Raspberry Pi App
+
+This app reads nfdump files and send them to the server under the users identity. It collects blocked ips from it every minute and updates IPTables to block traffic from those ips/sites
+
+[Raspberry Pi App](https://github.com/ASU-IoT-ResearchProject/IoTRaspberryPi)
+
+### Phone Apps
+
+This is a Xamarian Forms cross platform app that runs the companion phone app to view the data, cross reference it, and manage your devices.
+It can block devices and IPs/Websites from accessing your network.
+
+[Phone Apps](https://github.com/ASU-IoT-ResearchProject/IoTCrossPlatform)
+
+### Self Hosted Webserver
+
+These 2 apps are if a user wants to host the data themselves.
+
+[Webserver App](https://github.com/ASU-IoT-ResearchProject/IotBackendAPI)
+
+[Helper App](https://github.com/ASU-IoT-ResearchProject/IoTBackendHelper)
+
+
+
+# Authors
 
 ### Latest Version
 
@@ -55,3 +86,20 @@ More coming soon
 - Kuai Xu
     email kuai.xu@asu.edu
 
+# App Screenshots
+
+### Overview shows stats over the user choosen period and the devices active during that time
+![Stats](https://i.imgur.com/XZhNtMj.png)
+### Timeline of data usage (more options) of devices
+![Stats](https://i.imgur.com/ZUdxGsv.png)
+### Piechart showing distrutions of traffic by devices on network
+![Stats](https://i.imgur.com/amZJ6dF.png)
+### Page to inspect a devices activity
+![Stats](https://i.imgur.com/jbJpO7j.png)
+![Stats](https://i.imgur.com/HHOvx3h.png)
+![Stats](https://i.imgur.com/tVfZRus.png)
+### Inspect a IP you device interacted with, you can block the ip from here
+![Stats](https://i.imgur.com/s7mOFv6.png)
+![Stats](https://i.imgur.com/eKZy3uq.png)
+### Manage network rules from here
+![Stats](https://i.imgur.com/yn6LGRA.png)
